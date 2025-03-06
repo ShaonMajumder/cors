@@ -20,7 +20,7 @@
         "laravel": {
             "providers": [
                 "ShaonMajumder\\Cors\\Providers\\CorsServiceProvider"
-            ],
+            ]
         }
     }
 }
