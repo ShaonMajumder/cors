@@ -1,0 +1,26 @@
+{
+    "name": "shaonmajumder/cors",
+    "description": "A Laravel library for handling Cross-Origin Resource Sharing (CORS) requests",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "ShaonMajumder\\Cors\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Shaon Majumder",
+            "email": "smazoomder@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "ShaonMajumder\\Cors\\Providers\\CorsServiceProvider"
+            ],
+        }
+    }
+}
