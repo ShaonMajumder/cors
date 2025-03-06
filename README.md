@@ -1,4 +1,4 @@
-# ShaonMajumder CORS (Cross-Origin Resource Sharing) Laravel Package
+# CORS (Cross-Origin Resource Sharing) Laravel Package
 A Laravel package to handle Cross-Origin Resource Sharing (CORS) requests in Laravel applications. This package provides a middleware to manage CORS headers for your routes, making it easy to configure and use CORS in your Laravel project.
 
 ## Installation
@@ -71,3 +71,6 @@ CORS_ALLOWED_HEADERS=Content-Type, Authorization, X-CSRF-TOKEN, Referer, X-Origi
 
 ## License
 This package is open-source and available under the [MIT License](LICENSE).
+
+## Authors
+Shaon Majumder <smazoomder@gmail.com>
